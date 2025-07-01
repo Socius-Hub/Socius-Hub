@@ -7,7 +7,7 @@
 ---
 
 - 🌱 Atualmente estou aprendendo sobre Front-End
-
+- 🎯 Procurando por oportunidades de trabalho
 ---
 
 <h1 align="center">
