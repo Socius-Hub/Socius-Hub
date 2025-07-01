@@ -1,5 +1,8 @@
 name: GitHub Snake Game
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: "0 0 * * *"
@@ -10,10 +13,6 @@ on:
 
 jobs:
   generate:
-    # Adicione a seção de permissões aqui
-    permissions:
-      contents: write
-
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
@@ -39,3 +38,4 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update snake animation [skip ci]"
+
