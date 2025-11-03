@@ -1,4 +1,4 @@
-### Olá! Eu sou o Yuuri 👋
+### Olá!  👋
 
 <p align="left">
   Estudante de Análise e Desenvolvimento de Sistemas no IFSP, apaixonado pelo universo da programação e desenvolvimento de software.
