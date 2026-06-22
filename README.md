@@ -6,8 +6,8 @@
 
 ---
 
-- 🌱 Atualmente estou aprendendo sobre Front-End
-- 🎯 Procurando por oportunidades de trabalho
+- 🌱 Atualmente estou aprendendo sobre Análise de Dados
+- 👽 Estagiando em TI - Inovação na Unimed
 ---
 
 <h1 align="center">
